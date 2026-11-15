@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix PulseMind AI",
+  "description": "Clinical nursing study assistant for MUST University students featuring AI chat, pharmacology and care plan guidance, dark mode, user profile, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
